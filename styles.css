@@ -1,6 +1,13 @@
-#FenInDiv {
+/* #FenInDiv {
 	position: relative;
 	left: 60px;
+} */
+
+h3{
+	display: flex;
+	margin-bottom: 0;
+	justify-content: center;
+	font-family: 'Croissant One', cursive;
 }
 
 #fenIn { 
@@ -63,42 +70,3 @@
 .Piece {
 	position: absolute;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
