@@ -6,6 +6,9 @@ body{
 display: flex;
 justify-content: center;
 margin-left: 0;
+background-image: url("https://img.wallpapic.com/i8045-741-625/medium/digital-art-graphics-3d-chess-wallpaper.jpg");
+background-repeat: no-repeat;
+background-size: cover;
 }
 
 h3{
@@ -36,7 +39,7 @@ h3{
 
 #EngineOutput {
 	position: absolute;
-	left: 1219px;
+	left: 1205px;
 	top: 95px;	
 	display: flex;
 	flex-direction: column;
