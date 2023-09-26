@@ -2,6 +2,11 @@
 	position: relative;
 	left: 60px;
 } */
+body{
+display: flex;
+justify-content: center;
+margin-left: 0;
+}
 
 h3{
 	display: flex;
@@ -27,8 +32,11 @@ h3{
 
 #EngineOutput {
 	position: absolute;
-	left: 600px;
-	top: 250px;	
+	left: 1251px;
+	top: 30px;	
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
 }
 
 .Square {
