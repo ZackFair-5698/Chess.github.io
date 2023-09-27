@@ -85,3 +85,10 @@ h3{
 .Piece {
 	position: absolute;
 }
+
+@media screen and (max-width: 800px) {
+	body, h3, #fenIn, #Board, #EngineOutput, .Square, .Dark, .Light, .SqSelected, .Piece {
+		width: 100%;
+		height: auto;
+	}
+}
